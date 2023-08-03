@@ -17,17 +17,16 @@ Acceder a SIGA para imprimir un certificado gratuito. Su objetivo es encontrar 2
 *Atributos afectados y as razones para elegirlo*
 El atributo afectado para este caso es el de *eficiencia*, ya que nos tardamos mucho en llegar a la información buscada.
 
-
 ### Problema 2
 *Acción:* Generar un certificado de alumno regular.
 
 *Descripción del problema:*
 Cuando queremos generar un certificado se nos muestra la siguiente interfaz:
 
-![](img/img_1.jpg)
+![](img/img_1.jpeg)
 
 Donde no podemos saber donde entrar intuitivamente para generar este certificado. Una vez encontrado donde generar el certificado, el "botón" que genera el certificado no es representativo, por lo que genera confusiones con el usuario.
-![](img/img_2.jpg)
+![](img/img_2.jpeg)
 
 *Atributos afectados y as razones para elegirlo*
 Los atributos principalmente afectados son *aprendizaje* ya que aprender a utilizar la plataforma es muy lento, y *eficiencia*, ya que para poder generar un certificado debemos hacer demasiados clicks.
