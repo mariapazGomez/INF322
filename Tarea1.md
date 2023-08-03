@@ -23,9 +23,11 @@ El atributo afectado para este caso es el de *eficiencia*, ya que nos tardamos m
 
 *Descripción del problema:*
 Cuando queremos generar un certificado se nos muestra la siguiente interfaz:
-![[img/img_1.jpg]]
+
+![](img/img_1.jpg)
+
 Donde no podemos saber donde entrar intuitivamente para generar este certificado. Una vez encontrado donde generar el certificado, el "botón" que genera el certificado no es representativo, por lo que genera confusiones con el usuario.
-![[img/imag_2.jpg]]
+![](img/img_2.jpg)
 
 *Atributos afectados y as razones para elegirlo*
 Los atributos principalmente afectados son *aprendizaje* ya que aprender a utilizar la plataforma es muy lento, y *eficiencia*, ya que para poder generar un certificado debemos hacer demasiados clicks.
